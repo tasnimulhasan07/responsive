@@ -283,7 +283,7 @@ a {
 
 .languages p {
   margin-left: 20px;
-  max-width: 20px;
+  min-width: 100px;
 }
 
 .skill__paragraph {
